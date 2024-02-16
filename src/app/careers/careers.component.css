@@ -87,6 +87,11 @@ ul {
   margin-bottom: 0;
 }
 
+.job-box {
+  background-color: ghostwhite;
+}
+
+
 .job-box .img-holder {
   height: 65px;
   width: 65px;
@@ -181,4 +186,8 @@ ul {
   .careersTitle {
     padding-top: 40%;
   }
+}
+
+.job-box {
+  margin: 10%;
 }
